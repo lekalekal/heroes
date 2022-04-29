@@ -26,16 +26,16 @@ a:hover {
     background: url("../img/batman.jpg") center/cover;
 }
 .harley{
-    background: url("/img/harley.jpg") center/cover;
+    background: url("../img/harley.jpg") center/cover;
 }
 .ww{
-    background: url("img/ww.jpg") center/cover;
+    background: url("../img/ww.jpg") center/cover;
 }
 .deadpool{
-    background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/deadpool.jpg") center/cover;
+    background: url("../img/deadpool.jpg") center/cover;
 }
 .joker{
-    background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/joker.jpg") center/cover;
+    background: url("../img/joker.jpg") center/cover;
 }
 
 a::before{
