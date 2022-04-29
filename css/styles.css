@@ -23,13 +23,13 @@ a:hover {
 }
 
 .batman{
-    background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/batman.jpg") center/cover;
+    background: url("../img/batman.jpg") center/cover;
 }
 .harley{
-    background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/harley.jpg") center/cover;
+    background: url("/img/harley.jpg") center/cover;
 }
 .ww{
-    background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/ww.jpg") center/cover;
+    background: url("img/ww.jpg") center/cover;
 }
 .deadpool{
     background: url("http://cepegra-labs.be/webdesign/fed2021/rostislav/superheroes/img/deadpool.jpg") center/cover;
